@@ -1,0 +1,62 @@
+
+
+body {  
+    text-align: center;
+    background: rgba(140, 156, 156);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    margin: auto;
+    border-radius: 20px;
+}
+#top {
+    color: rgba(145, 94, 6);
+    word-spacing: 1.5cm;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    
+}
+h1 {
+    
+    color:rgba(51, 51, 51,)
+}
+h3 {  
+    color:rgba(51, 51, 51,)  
+}
+img {
+    width: 500px;
+}
+a {
+    text-decoration: none;
+    color:blue;
+}
+
+a :hover {
+    text-decoration: underline;
+    color: red;
+}
+hr {
+    width: 300px;
+    border-color: rgba(145, 94, 6, 0.7);
+    margin-bottom: 30px;
+    text-align: center;
+}
+input {
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+}
+#finish-btn {
+    margin-top: 20px;
+    width: 120px;
+    height: 30px;
+    background-color:lightgreen;
+    border-radius: 7px;
+}
+#bottom {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+#result1, #result2, #result3, #result4, #percent, #score, #try{
+    color: greenyellow;
+}
+
